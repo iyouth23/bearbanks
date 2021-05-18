@@ -1,6 +1,5 @@
 CSE237: Programming Tools and Techniques
 Members: Jack Cho, Jessica Wu, Ian Youth, Jaehwi Park
-Project: Bear Banks
 
 1.) What user stories were completed in this iteration?
 	(A) A customer should see a receipt when exiting a program that
