@@ -1,4 +1,4 @@
-# cse237-project: Bear Banks
+# CSE237-project: Bear Banks
 
 **This project was created as part of the Programming Tools and Techniques course at Washington University.**
 
