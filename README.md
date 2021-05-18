@@ -37,3 +37,15 @@
         1.) Lock the ATM for use
                         
         2.) Do anything that a customer might normally do under the customer interface (see above)
+
+**How to Run This Program**
+
+    1.) After cloning this repository on your personal computer, open a Command Prompt and 
+        navigate to the folder that contains "runBearBanks.sh".
+
+    2.) Run "runBearBanks.sh" by typing "./runBearBanks.sh".
+
+        A.) If an error is encountered, it might be due to how Windows treats newline characters.
+            
+        B.) To fix this error, type "dos2unix runBearBanks.sh"; afterwards, type "./runBearBanks.sh" 
+            again.
